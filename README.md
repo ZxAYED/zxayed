@@ -39,8 +39,6 @@ Let's connect and share our coding and travel stories! 🚀🌟
 
 <a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ZxAYED&theme=dark&hide_border=true&mode=weekly&card_width=520&background=35%2C4A90E2%2C367588&border=FF8C00&ring=FF8C00&stroke=FFFFFF&currStreakNum=EBEAEA&sideNums=EBEAEA&currStreakLabel=EBEAEA&sideLabels=EBEAEA&dates=EBEAEA" alt="GitHub Streak" /></a>
 
+<a href="https://git.io/streak-stats"><img align="right" src="https://api.githubtrends.io/user/svg/ZxAYED/langs?time_range=one_year&compact=True&theme=bright_lights" alt="GitHub Streak" /></a>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zxayed&show_icons=true&locale=en" alt="zxayed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxayed&" alt="zxayed" /></p>
 
