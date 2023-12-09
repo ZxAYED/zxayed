@@ -29,7 +29,7 @@ Let's connect and code the future together! 🚀✨
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxayed&label=Profile%20views&color=0e75b6&style=flat" alt="zxayed" /> </p>
 
 - 🔭 I’m currently working on **Self Development**
-- 🌱 I’m currently learning  <a href="https://skillicons.dev">
+- 🌱 I’m currently learning  <a href="#">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>  Next js 
 - ⚡ Fun fact: Full stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
