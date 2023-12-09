@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zayed Iqbal</h1>
 <h3 align="center">Full Stack Web developer</h3>
 
-replace ![ image](https://your-image-url.type) with <img src="https://your-image-url.type](https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg" width="100" height="100"> 
-![]()
 
+![image](https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg) = 250x250)
 
 
 
