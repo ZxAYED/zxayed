@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web developer</h3>
 
 
-<img align="center" src="https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg " alt="Profile Image" width="250" height="250">
+<p align="center" ><img  src="https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg " alt="Profile Image"  height="250"> </p>
 
 
 
