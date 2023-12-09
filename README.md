@@ -11,7 +11,7 @@
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
 
-Hello there! 👋 I'm [Your Name], a passionate coder and physics enthusiast on an exciting journey. By day, I'm immersed in the world of the MERN stack, crafting elegant solutions. By night, I'm a sleep aficionado who believes in the power of a good nap. 🛌✨
+Hello there! 👋 I'm Zayed Iqbal, a passionate coder and physics enthusiast on an exciting journey. By day, I'm immersed in the world of the MERN stack, crafting elegant solutions. By night, I'm a sleep aficionado who believes in the power of a good nap. 🛌✨
 
 When I'm not coding or dreaming of code, you'll find me exploring new horizons, one destination at a time. 🌍✈️ I believe that both coding and traveling open doors to endless possibilities and perspectives.
 
