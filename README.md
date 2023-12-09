@@ -29,20 +29,20 @@ Let's connect and share our coding and travel stories! 🚀🌟
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>  Next js 
 - ⚡ Fun fact: Full stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,tailwind,bootstrap,js,react,firebase,express,mongodb,nodejs" />
-  </a>
-</p>
+  <img align="right" src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif " alt=" Image"  height="250">
 <h3 align="left">Join  me :</h3>
 <p align="left">
-  <img align="right" src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif " alt=" Image"  height="250">
+
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100069563060364&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069563060364&ref=xav_ig_profile_web" height="30" width="40" /></a>
 <a href="https://instagram.com/zzayed0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zzayed0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks & Libraries :</h3>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,tailwind,bootstrap,js,react,firebase,express,mongodb,nodejs" />
+  </a>
+</p>
 
 
 
