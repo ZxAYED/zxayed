@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zayed Iqbal</h1>
 <h3 align="center">Full Stack Web developer</h3>
-(https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg)
+https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
 
