@@ -38,12 +38,9 @@ Let's connect and share our coding and travel stories! 🚀🌟
  <a href="https://instagram.com/zzayed0" height="30" width="40">
     <img  height="30" width="40" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zzayed0" height="30" width="40" /></a>
   <a href="#" height="30" width="40">
     <img  height="30" width="40" src="https://skillicons.dev/icons?i=discord" />
-  </a>
- 
+  </a> 
 </p>
 
 <h3 align="left">Languages, Frameworks & Libraries :</h3>
