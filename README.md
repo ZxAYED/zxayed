@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zayed Iqbal</h1>
 <h3 align="center">Full Stack Web developer</h3>
-https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg
+
+![](https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg)
+
+
+
+
+
+
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
 
@@ -17,6 +24,8 @@ Let's connect and share our coding and travel stories! 🚀🌟
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxayed&label=Profile%20views&color=0e75b6&style=flat" alt="zxayed" /> </p>
 
 - 🔭 I’m currently working on **Self Development**
+- 🌱 I’m currently learning Next js 
+- ⚡ Fun fact: Full stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
