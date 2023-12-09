@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Zayed Iqbal
-#### Web Developer
+### Web Developer
 ![Web Developer](https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg)
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
