@@ -29,7 +29,11 @@ Let's connect and share our coding and travel stories! 🚀🌟
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>  Next js 
 - ⚡ Fun fact: Full stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,tailwind,bootstrap,js,react,firebase,express,mongodb,nodejs" />
+  </a>
+</p>
 <h3 align="left">Join  me :</h3>
 <p align="left">
   <img align="right" src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif " alt=" Image"  height="250">
@@ -38,11 +42,7 @@ Let's connect and share our coding and travel stories! 🚀🌟
 </p>
 
 <h3 align="left">Languages, Frameworks & Libraries :</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html,css,tailwind,bootstrap,js,react,firebase,express,mongodb,nodejs" />
-  </a>
-</p>
+
 
 
 
