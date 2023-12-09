@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Zayed Iqbal</h1>
 <h3 align="center">Full Stack Web developer</h3>
+(https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg)
+
+🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
+
+Hello there! 👋 I'm [Your Name], a passionate coder and physics enthusiast on an exciting journey. By day, I'm immersed in the world of the MERN stack, crafting elegant solutions. By night, I'm a sleep aficionado who believes in the power of a good nap. 🛌✨
+
+When I'm not coding or dreaming of code, you'll find me exploring new horizons, one destination at a time. 🌍✈️ I believe that both coding and traveling open doors to endless possibilities and perspectives.
+
+💡 Here's a fun fact about me: I've mastered the art of blending code with dreams and wanderlust. Join me in this dual adventure of bytes and flights, as we code our way through the digital realm and explore the beauty of the physical world.
+
+Let's connect and share our coding and travel stories! 🚀🌟
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zxayed&label=Profile%20views&color=0e75b6&style=flat" alt="zxayed" /> </p>
 
