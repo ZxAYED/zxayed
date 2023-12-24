@@ -36,7 +36,7 @@ Let's connect and code the future together! 🚀✨
   <img align="right" src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif " alt=" Image"  height="250">
 <h3 align="left">Join  me :</h3>
 <p align="left">
- <a href="www.linkedin.com/in/zayed-iqbal" height="30" width="40">
+ <a href="https://www.linkedin.com/in/zayed-iqbal" height="30" width="40">
     <img  height="30" width="40" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  <a href="https://instagram.com/zzayed0" height="30" width="40">
