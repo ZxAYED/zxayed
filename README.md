@@ -12,13 +12,13 @@
 
 🚀 Aspiring FrontEnd Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
 
-Hello there! 👋 I'm Zayed Iqbal, a dynamic and self-motivated individual on a mission to bridge the worlds of technology and physics. Currently pursuing my passion for coding while studying Physics at Govt Titumir College, I thrive on solving real-world problems through the lens of a full stack developer.
+Hello there! 👋 I'm Zayed Iqbal, a dynamic and self-motivated individual on a mission to bridge the worlds of technology and physics. Currently pursuing my passion for coding while studying Physics at Govt Titumir College, I thrive on solving real-world problems through the lens of a frontend developer.
 
 💻 My expertise lies in the MERN (MongoDB, Express.js, React, Node.js) stack, where I craft seamless and scalable solutions that resonate with both functionality and aesthetics. I approach every task with strategic thinking, setting clear goals and working relentlessly towards achieving them.
 
 🎯 Goal-oriented and focused, I am driven by a relentless determination to excel in the development sector. My commitment to quality and client satisfaction is unwavering. I embrace challenges with confidence, always seeking opportunities for personal and professional growth.
 
-🌟 Passion fuels my journey, and I am dedicated to evolving into a senior developer in the near future. With a strong belief in achieving greatness, I am committed to delivering exceptional results that align with the vision and requirements of my clients. Insha'Allah, the future holds great things for my journey in the world of development.
+🌟 Passion fuels my journey, and I am dedicated to evolving into a senior fullstack developer in the near future. With a strong belief in achieving greatness, I am committed to delivering exceptional results that align with the vision and requirements of my clients. Insha'Allah, the future holds great things for my journey in the world of development.
 
 Let's connect and code the future together! 🚀✨
 
