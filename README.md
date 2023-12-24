@@ -10,7 +10,7 @@
 
 
 
-🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
+🚀 Aspiring FrontEnd Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
 
 Hello there! 👋 I'm Zayed Iqbal, a dynamic and self-motivated individual on a mission to bridge the worlds of technology and physics. Currently pursuing my passion for coding while studying Physics at Govt Titumir College, I thrive on solving real-world problems through the lens of a full stack developer.
 
