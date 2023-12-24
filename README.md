@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zayed Iqbal</h1>
-<h3 align="center">Full Stack Web developer</h3>
+<h3 align="center">Frontend Web developer</h3>
 
 
 <p align="center" ><img  src="https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg " alt="Profile Image"  height="250"> </p>
