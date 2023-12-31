@@ -32,7 +32,7 @@ Let's connect and code the future together! 🚀✨
 - 🌱 I’m currently learning  <a href="#">
     <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>  Next js 
-- ⚡ Fun fact: Full stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
+- ⚡ Fun fact: MERN stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
   <img align="right" src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif " alt=" Image"  height="250">
 <h3 align="left">Join  me :</h3>
 <p align="left">
