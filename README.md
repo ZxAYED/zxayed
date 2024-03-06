@@ -45,6 +45,7 @@ Let's connect and code the future together! 🚀✨
   <a href="#" height="30" width="40">
     <img  height="30" width="40" src="https://skillicons.dev/icons?i=discord" />
   </a> 
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zayed-iqbal/)  
 </p>
 
 <h3 align="left">Languages, Frameworks & Libraries :</h3>
