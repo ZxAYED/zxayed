@@ -42,7 +42,7 @@ Let's connect and code the future together! 🚀✨
  <a href="https://instagram.com/zzayed0" height="30" width="40">
     <img  height="30" width="40" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="#" height="30" width="40">
+  <a href="https://discordapp.com/users/zxayed" height="30" width="40">
     <img  height="30" width="40" src="https://skillicons.dev/icons?i=discord" />
   </a> 
   <a href="https://www.linkedin.com/in/zayed-iqbal" height="30" width="40">
