@@ -30,7 +30,7 @@ Let's connect and code the future together! 🚀✨
 
 - 🔭 I’m currently working on **Self Development**
 - 🌱 I’m currently learning  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=redux" />
   </a>  Next js 
 - ⚡ Fun fact: MERN stack developer by day, sleep enthusiast by night, and a globetrotter in between code commits. 
   <img align="right" src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif " alt=" Image"  height="250">
