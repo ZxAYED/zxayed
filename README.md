@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Zayed Iqbal</h1>
-<h3 align="center">Frontend Web developer</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 
 <p align="center" ><img  src="https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg " alt="Profile Image"  height="250"> </p>
@@ -10,9 +10,9 @@
 
 
 
- Aspiring FrontEnd Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
+ Aspiring Full Stack Developer | MERN Stack Enthusiast | Physics Student at Govt Titumir College 🎓
 
-Hello there!  I'm Zayed Iqbal, a dynamic and self-motivated individual on a mission to bridge the worlds of technology and physics. Currently pursuing my passion for coding while studying Physics at Govt Titumir College, I thrive on solving real-world problems through the lens of a frontend developer.
+Hello there!  I'm Zayed Iqbal, a dynamic and self-motivated individual on a mission to bridge the worlds of technology and physics. Currently pursuing my passion for coding while studying Physics at Govt Titumir College, I thrive on solving real-world problems through the lens of a Full Stack developer.
 
  My expertise lies in the MERN (MongoDB, Express.js, React, Node.js) stack, where I craft seamless and scalable solutions that resonate with both functionality and aesthetics. I approach every task with strategic thinking, setting clear goals and working relentlessly towards achieving them.
 
