@@ -50,10 +50,10 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ---
 <p align="center">
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0ea3e8&center=true&vCenter=true&width=700&lines=I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on.Let's+build+next-gen+web+apps+%F0%9F%94%A5;" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0ea3e8&center=true&vCenter=true&width=900&lines=Hi+I%27m+Zayed%2C+the+Fullstack+Developer+you+can+count+on." 
   alt="Typing Animation" 
   width="100%" 
-  style="max-width: 700px;" 
+  style="max-width: 900px;" 
 />
 
 </p>
