@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🧠 Passionate about building full-stack web apps that are fast, clean, and user-centric. As a Physics student at Govt. Titumir College and a lifelong tech tinkerer, I thrive at the intersection of logic and creativity.
+  Passionate about building full-stack web apps that are fast, clean, and user-centric. As a Physics student at Govt. Titumir College and a lifelong tech tinkerer, I thrive at the intersection of logic and creativity.
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-### 🎯 About Me
+### 🙎‍♂️ About Me
 
 - 📘 Physics major with a deep love for programming
 - 🛠️ Crafting scalable web solutions with **MERN** & **PERN** stacks
@@ -91,7 +91,7 @@
 
 ### 🎬 Quick Peek into My World
 
-<p align="center">
+<p align="center" style={ marginBottom:"16px"}>
   <img src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif" height="220" />
 </p>
 
@@ -101,6 +101,6 @@
 
 > 💡 *Open for collaboration, freelance work, or just a good dev chat.*
 
-<p align="center">
+<p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=435&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on."/>
 </p>
