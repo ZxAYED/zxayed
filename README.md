@@ -1,4 +1,4 @@
-**<h1 align="center">Hi, I'm Zayed Iqbal 👋</h1>
+<h1 align="center">Hi, I'm Zayed Iqbal</h1>
 <h3 align="center">Full Stack Web Developer | MERN & PERN Stack Enthusiast</h3>
 
 <p align="center">
@@ -6,85 +6,101 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about building high-quality full-stack applications that are fast, responsive, and user-focused. As a Physics student at Govt. Titumir College and a tech enthusiast, I'm driven by curiosity, creativity, and continuous learning.
+  🧠 Passionate about building full-stack web apps that are fast, clean, and user-centric. As a Physics student at Govt. Titumir College and a lifelong tech tinkerer, I thrive at the intersection of logic and creativity.
 </p>
 
 ---
 
-### 💻 Tech Stack Breakdown
+### 🌐 Tech Stack Breakdown
 
-#### 🚀 Frontend
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753787/next-portfolio/icons8-html-5-240.png.png" height="60" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753770/next-portfolio/icons8-css3-144.png.png" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753732/next-portfolio/icons8-bootstrap-240.png.png" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753885/next-portfolio/icons8-tailwindcss-240.png.png" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753936/next-portfolio/material%20ui.png.png" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753806/next-portfolio/icons8-js-240.png.png" height="40" width="50"  />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-7-pack-logos-icons-2945272.png?f=webp&w=256" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754218/next-portfolio/react.png.png" height="40" width="50"   />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754039/next-portfolio/next.png.png" height="40" width="50"   />
-   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754374/next-portfolio/redux.png.png" height="40" width="50"  />
+#### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="80" />
+  <img src="https://skillicons.dev/icons?i=css" height="80" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="80" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="80" />
+  <img src="https://ui.shadcn.com/favicon.ico" height="80" />
+  <img src="https://skillicons.dev/icons?i=js" height="80" />
+  <img src="https://skillicons.dev/icons?i=ts" height="80" />
+  <img src="https://skillicons.dev/icons?i=react" height="80" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="80" />
+  <img src="https://skillicons.dev/icons?i=redux" height="80" />
 </div>
 
-#### 🛠️ Backend
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754089/next-portfolio/nodeJs.png.png" height="40"  width="50" />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753596/next-portfolio/expressJs.png.png" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753995/next-portfolio/mongodb.png.png" height="40" width="50"  />
- 
-  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8rbs6hk39ei4m4emawr.png" height="40" />
-  <img src="https://miro.medium.com/v2/resize:fit:1024/1*sRnURmqek5n5ozXwUrp5kQ.jpeg" height="40" width="50"  />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754160/next-portfolio/postgre.png.png" width="50"  height="40" />
+#### 🧩 Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="80" />
+  <img src="https://skillicons.dev/icons?i=express" height="80" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="80" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="80" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="80" />
+  <img src="https://skillicons.dev/icons?i=docker" height="80" />
 </div>
 
+---
 
 ### 🎯 About Me
 
-- 🎓 Physics student with a tech mindset.
-- 💼 I create modern full-stack applications using the MERN & PERN stack.
-- 🎯 Focused on writing clean, maintainable code.
-- 💬 Always curious to learn and apply new technologies.
-- ⚡ Fun Fact: MERN stack coder by day, deep sleeper by night, adventurer at heart!
+- 📘 Physics major with a deep love for programming
+- 🛠️ Crafting scalable web solutions with **MERN** & **PERN** stacks
+- 🧼 Code hygiene enthusiast: Clean, modular, readable
+- 🌱 Always learning new tech tools and best practices
+- 🎒 Fun Fact: Code ninja by day, cozy dreamer by night!
 
 ---
 
-### 🔧 Currently Working On
+### 🔍 Currently Exploring
 
-- Self Development Projects
-- Learning & Practicing **Redux** for scalable state management
+- 📂 Building full-stack projects for personal growth
+- 🧠 Leveling up Redux & advanced state architecture
 
 ---
 
-### 📬 Reach Out & Connect
+### 🤝 Let’s Connect
 
-<p align="left" style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/zayed-iqbal">
-    <img height="30" width="40" src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://instagram.com/zzayed0">
-    <img height="30" width="40" src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://instagram.com/zzayed0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://discordapp.com/users/zxayed">
-    <img height="30" width="40" src="https://skillicons.dev/icons?i=discord" />
+  <a href="https://discordapp.com/users/zxayed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif" height="200" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Views
-
-![Zayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical)
-
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZxAYED&hide_border=true&background=45%2C4A90E2%2C367588&ring=FF8C00&border=FF8C00&fire=FF8C00&stroke=EBC7E0&currStreakNum=EBC7E0&sideNums=EBC7E0&currStreakLabel=EBC7E0&sideLabels=EBC7E0&dates=EBC7E0&excludeDaysLabel=EBC7E0" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" height="180" />
 </p>
-**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZxAYED&hide_border=true&theme=tokyonight_duo" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" />
+</p>
+
+---
+
+### 🎬 Quick Peek into My World
+
+<p align="center">
+  <img src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif" height="220" />
+</p>
+
+---
+
+### 📢 Let’s Build Something Awesome
+
+> 💡 *Open for collaboration, freelance work, or just a good dev chat.*
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=435&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on."/>
+</p>
