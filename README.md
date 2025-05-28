@@ -10,8 +10,8 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🌐 Tech Stack Breakdown
 
-<div align="center">
-  <table>
+<div >
+  <table  border="0">>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=html" height="40" /><br/>HTML
@@ -33,7 +33,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
         <img src="https://skillicons.dev/icons?i=js" height="40" /><br/>JavaScript
       </td>
       <td align="center">
