@@ -53,10 +53,16 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 <p align="left">
   <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+  </a>  
+
+
+  
   <a href="https://instagram.com/zzayed0" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
+
+
+  
   <a href="https://discordapp.com/users/zxayed" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
