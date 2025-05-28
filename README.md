@@ -11,7 +11,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 🌐 Tech Stack Breakdown
 
 ### 🎨 Frontend
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 60px" >
+<div align="center" style="display: flex; flex-wrap: wrap;  gap: 60px" >
   <img src="https://skillicons.dev/icons?i=html" height="50" />
   <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
