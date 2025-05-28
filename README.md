@@ -21,7 +21,6 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 | <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
 | :-: | :-: | :-: | :-: | :-: |
-
 | JavaScript | TypeScript | React | Next.js | Redux |
 
 ---
