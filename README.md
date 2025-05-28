@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Full Stack Web Developer | MERN & PERN Stack Enthusiast  || Passionate about building full-stack web apps that are fast, clean, and user-centric.
+Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about building full-stack web apps that are fast, clean, and user-centric.
 
 ---
 
