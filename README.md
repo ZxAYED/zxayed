@@ -11,28 +11,28 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 🌐 Tech Stack Breakdown
 
 ### 🎨 Frontend
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px" >
-  <img src="https://skillicons.dev/icons?i=html" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" height="70" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="70" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="70" />
-  <img src="https://ui.shadcn.com/favicon.ico" height="70" />
-  <img src="https://skillicons.dev/icons?i=js" height="70" />
-  <img src="https://skillicons.dev/icons?i=ts" height="70" />
-  <img src="https://skillicons.dev/icons?i=react" height="70" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="70" />
-  <img src="https://skillicons.dev/icons?i=redux" height="70" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px" >
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="50" />
+  <img src="https://ui.shadcn.com/favicon.ico" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" />
 </div>
 
 ### 🧩 Backend
-<div align="center" tyle="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px" >
-  <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
-  <img src="https://skillicons.dev/icons?i=express" height="70" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="70" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="70" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="70" />
-  <img src="https://skillicons.dev/icons?i=docker" height="70" />
+<div align="center" tyle="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px" >
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
 </div>
 
 
