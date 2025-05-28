@@ -25,6 +25,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-7-pack-logos-icons-2945272.png?f=webp&w=256" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754218/next-portfolio/react.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754039/next-portfolio/next.png.png" height="40" />
+   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754374/next-portfolio/redux.png.png" height="40" />
 </p>
 
 #### 🛠️ Backend
@@ -32,7 +33,7 @@
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754089/next-portfolio/nodeJs.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753596/next-portfolio/expressJs.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753995/next-portfolio/mongodb.png.png" height="40" />
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754374/next-portfolio/redux.png.png" height="40" />
+ 
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8rbs6hk39ei4m4emawr.png" height="40" />
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*sRnURmqek5n5ozXwUrp5kQ.jpeg" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754160/next-portfolio/postgre.png.png" height="40" />
