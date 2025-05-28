@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | MERN & PERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419392/github-banner_ipx07t.png" alt="Profile Image" height="250" />
+  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419392/github-banner_ipx07t.png" alt="Zayed Iqbal Banner" />
 </p>
 
 <p align="center">
