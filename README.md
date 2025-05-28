@@ -83,7 +83,18 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
   style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
 />
 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxAYED&layout=compact&theme=tokyonight" 
+  alt="Top Languages" 
+  style="width: 100%; max-width: 700px; border-radius: 12px;" 
+/>
 
+
+<img 
+  src="https://your-vercel-app.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" 
+  alt="Zayed's GitHub profile summary" 
+  style="width: 100%; max-width: 700px; margin-bottom: 24px; border-radius: 12px;" 
+/>
 
 
   <img 
