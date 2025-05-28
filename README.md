@@ -72,26 +72,34 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" alt="Zayed's GitHub stats" />
-</p>
+<div align="center" style="max-width: 700px; margin: auto;">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZxAYED&theme=tokyonight_duo&hide_border=true" height="180" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" 
+    alt="Zayed's GitHub stats" 
+    style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
+  />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" />
-</p>
----
+  <img 
+    src="https://streak-stats.demolab.com?user=ZxAYED&theme=tokyonight_duo&hide_border=true" 
+    alt="Zayed's GitHub streak stats" 
+    style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
+  />
 
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" 
+    alt="Zayed's GitHub profile summary" 
+    style="width: 100%; max-width: 700px; margin-bottom: 24px; border-radius: 12px;" 
+  />
 
+  <img 
+    src="https://raw.githubusercontent.com/ZxAYED/zxayed/main/coding.gif" 
+    alt="Coding gif" 
+    style="width: 100%; max-width: 700px; border-radius: 12px;" 
+    height="220"
+  />
 
-
-
-<p align="center" style="margin-bottom:16px;margin-top:16px">
-  <img src="https://raw.githubusercontent.com/ZxAYED/zxayed/main/coding.gif" height="220" />
-</p>
+</div>
 
 
 ### 📢 Let’s Build Something Awesome
