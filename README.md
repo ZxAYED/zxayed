@@ -16,12 +16,17 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 | :---: | :---: | :---: | :---: | :---: |
 | HTML | CSS | Bootstrap | Tailwind | Material UI |
 
+| <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: |
+| JavaScript | TypeScript | React | Next.js | Redux |
+
+---
+
 ### 🧩 Backend
 
 | <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=docker" height="40" /> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Node.js | Express | MongoDB | PostgreSQL | Prisma | Docker |
-
 
 ---
 
@@ -44,12 +49,13 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ---
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on.Let's+build+next-gen+web+apps+%F0%9F%94%A5;" 
-    alt="Typing Animation" 
-    width="100%" 
-    style="max-width: 700px;" 
-  />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0ea3e8&center=true&vCenter=true&width=700&lines=I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on.Let's+build+next-gen+web+apps+%F0%9F%94%A5;" 
+  alt="Typing Animation" 
+  width="100%" 
+  style="max-width: 700px;" 
+/>
+
 </p>
 
 ### 🤝 Let’s Connect
