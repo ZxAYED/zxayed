@@ -73,6 +73,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
+  [![Zayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZxAYED)](https://github.com/ZxAYED/github-readme-stats)
   <img src="https://github-readme-stats-git-main-zxayed.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" height="180" />
 </p>
 
@@ -85,7 +86,6 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 </p>
 ---
 
-### 🎬 Quick Peek into My World
 
 <p align="center" style={ marginBottom:"16px"}>
   <img src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif" height="220" />
