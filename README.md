@@ -10,42 +10,42 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🌐 Tech Stack Breakdown
 
-<div >
-  <table  border="0">>
+<div align="center">
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=html" height="40" /><br/>HTML
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=css" height="40" /><br/>CSS
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /><br/>Bootstrap
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=tailwind" height="40" /><br/>Tailwind
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /><br/>MUI
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://ui.shadcn.com/favicon.ico" height="40" /><br/>ShadCN
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=js" height="40" /><br/>JavaScript
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=ts" height="40" /><br/>TypeScript
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=react" height="40" /><br/>React
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=nextjs" height="40" /><br/>Next.js
       </td>
-      <td align="center">
+      <td style="border: none; padding: 10px;" align="center">
         <img src="https://skillicons.dev/icons?i=redux" height="40" /><br/>Redux
       </td>
     </tr>
