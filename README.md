@@ -90,11 +90,6 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 />
 
 
-<img 
-  src="https://your-vercel-app.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" 
-  alt="Zayed's GitHub profile summary" 
-  style="width: 100%; max-width: 700px; margin-bottom: 24px; border-radius: 12px;" 
-/>
 
 
   <img 
