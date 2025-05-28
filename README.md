@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | MERN & PERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/pK6rTxm/IMG-20230225-143542.jpg" alt="Profile Image" height="250" />
+  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419392/github-banner_ipx07t.png" alt="Profile Image" height="250" />
 </p>
 
 <p align="center">
@@ -14,28 +14,28 @@
 ### 🌐 Tech Stack Breakdown
 
 #### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="80" />
-  <img src="https://skillicons.dev/icons?i=css" height="80" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="80" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="80" />
-  <img src="https://ui.shadcn.com/favicon.ico" height="80" />
-  <img src="https://skillicons.dev/icons?i=js" height="80" />
-  <img src="https://skillicons.dev/icons?i=ts" height="80" />
-  <img src="https://skillicons.dev/icons?i=react" height="80" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="80" />
-  <img src="https://skillicons.dev/icons?i=redux" height="80" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px" >
+  <img src="https://skillicons.dev/icons?i=html" height="70" />
+  <img src="https://skillicons.dev/icons?i=css" height="70" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="70" />
+  <img src="https://ui.shadcn.com/favicon.ico" height="70" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" />
+  <img src="https://skillicons.dev/icons?i=ts" height="70" />
+  <img src="https://skillicons.dev/icons?i=react" height="70" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="70" />
+  <img src="https://skillicons.dev/icons?i=redux" height="70" />
 </div>
 
 #### 🧩 Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80" />
-  <img src="https://skillicons.dev/icons?i=express" height="80" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="80" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="80" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="80" />
-  <img src="https://skillicons.dev/icons?i=docker" height="80" />
+<div align="center" tyle="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px" >
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
+  <img src="https://skillicons.dev/icons?i=express" height="70" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="70" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="70" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="70" />
+  <img src="https://skillicons.dev/icons?i=docker" height="70" />
 </div>
 
 ---
