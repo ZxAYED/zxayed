@@ -14,7 +14,8 @@
 ### 💻 Tech Stack Breakdown
 
 #### 🚀 Frontend
-<p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753787/next-portfolio/icons8-html-5-240.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753770/next-portfolio/icons8-css3-144.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753732/next-portfolio/icons8-bootstrap-240.png.png" height="40" />
@@ -26,10 +27,11 @@
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754218/next-portfolio/react.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754039/next-portfolio/next.png.png" height="40" />
    <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754374/next-portfolio/redux.png.png" height="40" />
-</p>
+</div>
 
 #### 🛠️ Backend
-<p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754089/next-portfolio/nodeJs.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753596/next-portfolio/expressJs.png.png" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753995/next-portfolio/mongodb.png.png" height="40" />
@@ -37,8 +39,7 @@
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8rbs6hk39ei4m4emawr.png" height="40" />
   <img src="https://miro.medium.com/v2/resize:fit:1024/1*sRnURmqek5n5ozXwUrp5kQ.jpeg" height="40" />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754160/next-portfolio/postgre.png.png" height="40" />
-</p>
-
+</div>
 ---
 
 ### 🎯 About Me
