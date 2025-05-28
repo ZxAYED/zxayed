@@ -10,100 +10,21 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🌐 Tech Stack Breakdown
 
-
 ### 🎨 Frontend
 
-<p align="center">
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /><br />
-    HTML
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /><br />
-    CSS
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /><br />
-    Bootstrap
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" /><br />
-    Tailwind
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" alt="Material UI" /><br />
-    Material UI
-  </a>
-</p>
-
----
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: |
+| HTML | CSS | Bootstrap | Tailwind | Material UI |
 
 ### 🧩 Backend
 
-<p align="center">
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /><br />
-    Node.js
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" /><br />
-    Express
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /><br />
-    MongoDB
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" /><br />
-    PostgreSQL
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" /><br />
-    Prisma
-  </a>
-  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /><br />
-    Docker
-  </a>
-</p>
+| <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=docker" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Node.js | Express | MongoDB | PostgreSQL | Prisma | Docker |
+
 
 ---
 
-### 🧩 Backend
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
-
-  <div align="center" style="width: 100px;">
-    <p>Node.js</p>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Express</p>
-    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>MongoDB</p>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>PostgreSQL</p>
-    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Prisma</p>
-    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Docker</p>
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  </div>
-
-</div>
 
 
 ### 🙎‍♂️ About Me
