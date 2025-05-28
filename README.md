@@ -82,23 +82,21 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
   alt="Zayed's GitHub streak stats" 
   style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
 />
+<div style="background-color: #6fa5fc; padding: 12px; border-radius: 16px; max-width: 720px; margin-bottom: 24px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxAYED&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    style="width: 100%; border-radius: 12px;" 
+  />
+</div>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZxAYED&layout=compact&theme=tokyonight" 
-  alt="Top Languages" 
-  style="width: 100%; max-width: 700px; border-radius: 12px;" 
-/>
-
-
-
-
-
-
+<div style="background-color: #6fa5fc; padding: 12px; border-radius: 16px; max-width: 720px;">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" 
     alt="Zayed's GitHub profile summary" 
-    style="width: 100%; max-width: 700px; margin-bottom: 24px; border-radius: 12px;" />
- 
+    style="width: 100%; border-radius: 12px;" 
+  />
+</div>
 
   <img 
     src="https://raw.githubusercontent.com/ZxAYED/zxayed/main/coding.gif" 
