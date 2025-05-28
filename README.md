@@ -92,11 +92,6 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" 
-    alt="Zayed's GitHub stats" 
-    style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
-  />
 
 
   <img 
