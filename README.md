@@ -64,9 +64,15 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 
 ### 📈 GitHub Stats & Activity
-
+ 
 
 <div align="center" style="max-width: 700px; margin: auto;">
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=ZxAYED&theme=tokyonight_duo&hide_border=true" 
+    alt="Zayed's GitHub streak stats" 
+    style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
+  />
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" 
@@ -74,11 +80,6 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
     style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
   />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=ZxAYED&theme=tokyonight_duo&hide_border=true" 
-    alt="Zayed's GitHub streak stats" 
-    style="width: 100%; max-width: 700px; margin-bottom: 16px; border-radius: 12px;" 
-  />
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" 
