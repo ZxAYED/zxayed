@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | MERN & PERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419392/github-banner_ipx07t.png" alt="Zayed Iqbal Banner" />
+  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419928/githubBanner_gkys8u.png" alt="Zayed Iqbal Banner" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🌐 Tech Stack Breakdown
 
-#### 🎨 Frontend
+### 🎨 Frontend
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px" >
   <img src="https://skillicons.dev/icons?i=html" height="70" />
   <img src="https://skillicons.dev/icons?i=css" height="70" />
@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=redux" height="70" />
 </div>
 
-#### 🧩 Backend
+### 🧩 Backend
 <div align="center" tyle="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px" >
   <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
   <img src="https://skillicons.dev/icons?i=express" height="70" />
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=docker" height="70" />
 </div>
 
----
+
 
 ### 🙎‍♂️ About Me
 
@@ -95,7 +95,7 @@
   <img src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif" height="220" />
 </p>
 
----
+
 
 ### 📢 Let’s Build Something Awesome
 
@@ -104,3 +104,7 @@
 <p align="center" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=435&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on."/>
 </p>
+
+
+
+---
