@@ -10,29 +10,75 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🌐 Tech Stack Breakdown
 
-### 🎨 Frontend
-<div align="center" style="display: flex; flex-wrap: wrap;  gap: 60px" >
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="50" />
-  <img src="https://ui.shadcn.com/favicon.ico" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="40" /><br/>HTML
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" height="40" /><br/>CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /><br/>Bootstrap
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" /><br/>Tailwind
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /><br/>MUI
+      </td>
+      <td align="center">
+        <img src="https://ui.shadcn.com/favicon.ico" height="40" /><br/>ShadCN
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="40" /><br/>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts" height="40" /><br/>TypeScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" height="40" /><br/>React
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" /><br/>Next.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=redux" height="40" /><br/>Redux
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
 ### 🧩 Backend
-<div align="center" tyle="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px" >
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="40" /><br/>Node.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=express" height="40" /><br/>Express
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" /><br/>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgresql" height="40" /><br/>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=prisma" height="40" /><br/>Prisma
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" height="40" /><br/>Docker
+      </td>
+    </tr>
+  </table>
 </div>
 
 
