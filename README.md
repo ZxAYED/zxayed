@@ -13,7 +13,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 🎨 Frontend
 
 
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |'
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |
 | :-: | :-: | :-: | :-: | :-: |
 | HTML | CSS | Bootstrap | Tailwind | Material UI |
 
