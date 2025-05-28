@@ -12,24 +12,104 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🎨 Frontend
 
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
 
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |
-| :-: | :-: | :-: | :-: | :-: |
-| HTML | CSS | Bootstrap | Tailwind | Material UI |
+  <div align="center" style="width: 100px;">
+    <p>HTML</p>
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  </div>
 
+  <div align="center" style="width: 100px;">
+    <p>CSS</p>
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  </div>
 
+  <div align="center" style="width: 100px;">
+    <p>Bootstrap</p>
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+  </div>
 
-| <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
-| :-: | :-: | :-: | :-: | :-: |
-| JavaScript | TypeScript | React | Next.js | Redux |
+  <div align="center" style="width: 100px;">
+    <p>Tailwind</p>
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>Material UI</p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
+  </div>
+
+</div>
+
+---
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
+
+  <div align="center" style="width: 100px;">
+    <p>JavaScript</p>
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>TypeScript</p>
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>React</p>
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>Next.js</p>
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>Redux</p>
+    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" />
+  </div>
+
+</div>
 
 ---
 
 ### 🧩 Backend
 
-| <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=docker" height="40" /> |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Node.js | Express | MongoDB | PostgreSQL | Prisma | Docker |
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
+
+  <div align="center" style="width: 100px;">
+    <p>Node.js</p>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>Express</p>
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>MongoDB</p>
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>PostgreSQL</p>
+    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>Prisma</p>
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+  </div>
+
+  <div align="center" style="width: 100px;">
+    <p>Docker</p>
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  </div>
+
+</div>
+
 
 ### 🙎‍♂️ About Me
 
@@ -49,7 +129,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ---
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on.Let's+build+next-gen+web+apps+%F0%9F%94%A5;" 
     alt="Typing Animation" 
     width="100%" 
     style="max-width: 700px;" 
@@ -58,7 +138,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🤝 Let’s Connect
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>  
