@@ -10,6 +10,7 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🌐 Tech Stack Breakdown
 
+### 🎨 Frontend
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 10px;">
     
@@ -70,6 +71,49 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
   </div>
 </div>
+
+### 🧩 Backend
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 10px;">
+    
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40" /><br/>
+      <span>Node.js</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=express" height="40" /><br/>
+      <span>Express</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=ts" height="40" /><br/>
+      <span>TypeScript</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40" /><br/>
+      <span>MongoDB</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=postgresql" height="40" /><br/>
+      <span>PostgreSQL</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=prisma" height="40" /><br/>
+      <span>Prisma</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=docker" height="40" /><br/>
+      <span>Docker</span>
+    </div>
+
+  </div>
+</div>
+
 
 
 ### 🙎‍♂️ About Me
