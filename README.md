@@ -10,67 +10,62 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🌐 Tech Stack Breakdown
 
+
 ### 🎨 Frontend
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px;">
-
-  <div align="center" style="width: 100px;">
-    <p>HTML</p>
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>CSS</p>
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Bootstrap</p>
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Tailwind</p>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Material UI</p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" alt="Material UI" />
-  </div>
-
-</div>
+<p align="center">
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" /><br />
+    HTML
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" /><br />
+    CSS
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" /><br />
+    Bootstrap
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind" /><br />
+    Tailwind
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" alt="Material UI" /><br />
+    Material UI
+  </a>
+</p>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
+### 🧩 Backend
 
-  <div align="center" style="width: 100px;">
-    <p>JavaScript</p>
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>TypeScript</p>
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>React</p>
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Next.js</p>
-    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  </div>
-
-  <div align="center" style="width: 100px;">
-    <p>Redux</p>
-    <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" />
-  </div>
-
-</div>
+<p align="center">
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /><br />
+    Node.js
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" /><br />
+    Express
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /><br />
+    MongoDB
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" /><br />
+    PostgreSQL
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" /><br />
+    Prisma
+  </a>
+  <a href="#" style="text-align: center; margin: 0 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /><br />
+    Docker
+  </a>
+</p>
 
 ---
 
