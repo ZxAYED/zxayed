@@ -11,76 +11,65 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 🌐 Tech Stack Breakdown
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=html" height="40" /><br/>HTML
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=css" height="40" /><br/>CSS
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /><br/>Bootstrap
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=tailwind" height="40" /><br/>Tailwind
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /><br/>MUI
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://ui.shadcn.com/favicon.ico" height="40" /><br/>ShadCN
-      </td>
-    </tr>
-    <tr>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=js" height="40" /><br/>JavaScript
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=ts" height="40" /><br/>TypeScript
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=react" height="40" /><br/>React
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs" height="40" /><br/>Next.js
-      </td>
-      <td style="border: none; padding: 10px;" align="center">
-        <img src="https://skillicons.dev/icons?i=redux" height="40" /><br/>Redux
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 10px;">
+    
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=html" height="40" /><br/>
+      <span>HTML</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=css" height="40" /><br/>
+      <span>CSS</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /><br/>
+      <span>Bootstrap</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" /><br/>
+      <span>Tailwind</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /><br/>
+      <span>MUI</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://ui.shadcn.com/favicon.ico" height="40" /><br/>
+      <span>ShadCN</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=js" height="40" /><br/>
+      <span>JavaScript</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=ts" height="40" /><br/>
+      <span>TypeScript</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=react" height="40" /><br/>
+      <span>React</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" /><br/>
+      <span>Next.js</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=redux" height="40" /><br/>
+      <span>Redux</span>
+    </div>
+
+  </div>
 </div>
-
----
-
-### 🧩 Backend
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" height="40" /><br/>Node.js
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=express" height="40" /><br/>Express
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" height="40" /><br/>MongoDB
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgresql" height="40" /><br/>PostgreSQL
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=prisma" height="40" /><br/>Prisma
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" height="40" /><br/>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 
 ### 🙎‍♂️ About Me
