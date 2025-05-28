@@ -55,19 +55,19 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>  
 
-
+| :-: |
   
   <a href="https://instagram.com/zzayed0" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-
+| :-: |
 
   
   <a href="https://discordapp.com/users/zxayed" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
-
+| :-: |
 ---
 
 ### 📈 GitHub Stats & Activity
