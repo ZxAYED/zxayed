@@ -50,25 +50,18 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🤝 Let’s Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="left" style="display: flex; gap: 20px;">
+  <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>  
-
-| :-: |
-  
-  <a href="https://instagram.com/zzayed0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://instagram.com/zzayed0" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-| :-: |
-
-  
-  <a href="https://discordapp.com/users/zxayed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  <a href="https://discordapp.com/users/zxayed" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
 </p>
-| :-: |
----
+
 
 ### 📈 GitHub Stats & Activity
 
