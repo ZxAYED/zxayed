@@ -76,17 +76,16 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats-git-main-zxayed.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZxAYED&hide_border=true&theme=tokyonight_duo" height="180" />
+  <img src="https://streak-stats.demolab.com?user=ZxAYED&theme=tokyonight_duo&hide_border=true" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZxAYED&theme=github_dark" />
 </p>
-
 ---
 
 ### 🎬 Quick Peek into My World
@@ -101,8 +100,8 @@
 
 > 💡 *Open for collaboration, freelance work, or just a good dev chat.*
 
-<p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=435&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on."/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Let's+build+next-gen+web+apps+🔥;I'm+Zayed,+a+Full+Stack+Dev+you+can+count+on."/>
 </p>
 
 
