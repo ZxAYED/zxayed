@@ -12,21 +12,25 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 
 ### 🎨 Frontend
 
-| HTML | CSS | Bootstrap | Tailwind | Material UI |
+
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |'
 | :-: | :-: | :-: | :-: | :-: |
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |
+| HTML | CSS | Bootstrap | Tailwind | Material UI |
+
+
+
+| <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
+| :-: | :-: | :-: | :-: | :-: |
 
 | JavaScript | TypeScript | React | Next.js | Redux |
-| :-: | :-: | :-: | :-: | :-: |
-| <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
 
 ---
 
 ### 🧩 Backend
 
-| Node.js | Express | MongoDB | PostgreSQL | Prisma | Docker |
-| :-: | :-: | :-: | :-: | :-: | :-: |
 | <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=docker" height="40" /> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Node.js | Express | MongoDB | PostgreSQL | Prisma | Docker |
 
 ### 🙎‍♂️ About Me
 
