@@ -86,10 +86,12 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ---
 
 
-<p align="center" style={ marginBottom:"16px"}>
-  <img src="https://github.com/ZxAYED/zxayed/blob/main/coding.gif" height="220" />
-</p>
 
+
+
+<p align="center" style="margin-bottom:16px;margin-top:16px">
+  <img src="https://raw.githubusercontent.com/ZxAYED/zxayed/main/coding.gif" height="220" />
+</p>
 
 
 ### 📢 Let’s Build Something Awesome
