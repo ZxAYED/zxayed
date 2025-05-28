@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I'm Zayed Iqbal</h1>
-<h3 align="center">Full Stack Web Developer | MERN & PERN Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419928/githubBanner_gkys8u.png" alt="Zayed Iqbal Banner" />
 </p>
 
 <p align="center">
-  Passionate about building full-stack web apps that are fast, clean, and user-centric. As a Physics student at Govt. Titumir College and a lifelong tech tinkerer, I thrive at the intersection of logic and creativity.
+Full Stack Web Developer | MERN & PERN Stack Enthusiast  Passionate about building full-stack web apps that are fast, clean, and user-centric. As a Physics student at Govt.
 </p>
 
 ---
