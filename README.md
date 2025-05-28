@@ -98,8 +98,9 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 > 💡 *Open for collaboration, freelance work, or just a good dev chat.*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Let's+build+next-gen+web+apps+🔥;I'm+Zayed,+a+Full+Stack+Dev+you+can+count+on."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on." />
 </p>
+
 
 
 
