@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zayed Iqbal 👋</h1>
+**<h1 align="center">Hi, I'm Zayed Iqbal 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN & PERN Stack Enthusiast</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 #### 🚀 Frontend
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753787/next-portfolio/icons8-html-5-240.png.png" height="40" width="50"  />
+  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753787/next-portfolio/icons8-html-5-240.png.png" height="60" width="50"  />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753770/next-portfolio/icons8-css3-144.png.png" height="40" width="50"  />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753732/next-portfolio/icons8-bootstrap-240.png.png" height="40" width="50"  />
   <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747753885/next-portfolio/icons8-tailwindcss-240.png.png" height="40" width="50"  />
@@ -81,10 +81,10 @@
 
 ### 📊 GitHub Stats & Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zxayed&label=Profile%20views&color=0e75b6&style=flat" alt="zxayed" />
-</p>
+![Zayed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZxAYED&show_icons=true&theme=radical)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ZxAYED&hide_border=true&background=45%2C4A90E2%2C367588&ring=FF8C00&border=FF8C00&fire=FF8C00&stroke=EBC7E0&currStreakNum=EBC7E0&sideNums=EBC7E0&currStreakLabel=EBC7E0&sideLabels=EBC7E0&dates=EBC7E0&excludeDaysLabel=EBC7E0" alt="GitHub Streak" />
 </p>
+**
