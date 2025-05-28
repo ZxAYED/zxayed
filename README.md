@@ -47,31 +47,28 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 - 🧠 Leveling up Redux & advanced state architecture
 
 ---
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on." 
+    alt="Typing Animation" 
+    width="100%" 
+    style="max-width: 700px;" 
+  />
+</p>
 
+### 🤝 Let’s Connect
 
-<table align="center" width="100%" style="max-width: 700px;">
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=350&lines=I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on." 
-        alt="Typing SVG" 
-        width="650"
-      />
-    </td>
-    <td align="center" width="50%">
-      <h3>🤝 Let’s Connect</h3>
-      <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-      </a>
-      <a href="https://instagram.com/zzayed0" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
-        <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-      </a>
-      <a href="https://discordapp.com/users/zxayed" target="_blank" rel="noopener noreferrer" style="margin-left: 20px;">
-        <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zayed-iqbal" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>  
+  <a href="https://instagram.com/zzayed0" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/zxayed" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+  </a>
+</p>
 
 
 ### 📈 GitHub Stats & Activity
