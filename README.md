@@ -49,14 +49,13 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ---
 
 
-### 🤝 Let’s Connect
 <table align="center" width="100%" style="max-width: 700px;">
   <tr>
     <td align="center" width="50%">
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=350&lines=Let's+build+next-gen+web+apps+%F0%9F%94%A5;I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on." 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=350&lines=I'm+Zayed%2C+a+Full+Stack+Dev+you+can+count+on." 
         alt="Typing SVG" 
-        width="350"
+        width="650"
       />
     </td>
     <td align="center" width="50%">
