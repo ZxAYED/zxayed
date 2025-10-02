@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1748419928/githubBanner_gkys8u.png" alt="Zayed Iqbal Banner" />
+  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/ChatGPT_Image_Oct_2_2025_05_05_52_PM_g1cill.png" alt="Zayed Iqbal Banner" />
 </p>
 
 <p align="center">
