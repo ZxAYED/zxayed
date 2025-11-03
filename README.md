@@ -23,10 +23,10 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ---
 
 ### 🧩 Backend
+| <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=redis" height="40" /> | <img src="https://skillicons.dev/icons?i=nestjs" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Node.js | Express | MongoDB | PostgreSQL | Prisma | Redis | NestJS |
 
-| <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> | <img src="https://skillicons.dev/icons?i=express" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" height="40" /> | <img src="https://skillicons.dev/icons?i=prisma" height="40" /> | <img src="https://skillicons.dev/icons?i=docker" height="40" /> |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Node.js | Express | MongoDB | PostgreSQL | Prisma | Docker |
 
 ---
 
