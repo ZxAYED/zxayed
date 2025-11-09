@@ -11,10 +11,10 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 🌐 Tech Stack Breakdown
 
 ### 🎨 Frontend
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1731187325/next-portfolio/lightwind.png" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1731187390/next-portfolio/reactbits.png" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1731187443/next-portfolio/nuqs.png" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| HTML | CSS | Bootstrap | Tailwind | Material UI | ShadCN UI | Lightwind | React Bits | nuqs |
 
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> |  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" /> | 
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| HTML | CSS | Bootstrap | Tailwind | Material UI | Shadcn UI 
 
 | <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
 | :---: | :---: | :---: | :---: | :---: |
