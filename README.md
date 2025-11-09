@@ -11,9 +11,10 @@ Full Stack Web Developer | MERN & PERN Stack Enthusiast  | Passionate about buil
 ### 🌐 Tech Stack Breakdown
 
 ### 🎨 Frontend
-| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" /> |<img src="https://tsh.io/wp-content/uploads/fly-images/32664/framer-motion-logo-1-312x211.png" height="40" /> |  <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1762700246/lightwind-logo_idk3eq.png" height="40" /> | <img src="https://repository-images.githubusercontent.com/838695230/5663c374-06d5-43c8-983d-60e80b413f5f" height="40" /> | <img src="https://helpy-ui.b-cdn.net/nuqs.webp" height="40" /> |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| HTML | CSS | Bootstrap | Tailwind | Material UI | ShadCN UI |Framer Motion | Lightwind | React Bits | nuqs |
+| <img src="https://skillicons.dev/icons?i=html" height="40" /> | <img src="https://skillicons.dev/icons?i=css" height="40" /> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1747754440/next-portfolio/shadcn.png.png" height="40" /> | <img src="https://tsh.io/wp-content/uploads/fly-images/32664/framer-motion-logo-1-312x211.png" height="40" /> | <img src="https://res.cloudinary.com/dhl04adhz/image/upload/v1762700246/lightwind-logo_idk3eq.png" height="40" /> | <img src="https://repository-images.githubusercontent.com/838695230/5663c374-06d5-43c8-983d-60e80b413f5f" height="40" /> | <img src="https://helpy-ui.b-cdn.net/nuqs.webp" height="40" /> |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| HTML | CSS | Bootstrap | Tailwind | Material UI | ShadCN UI | Framer Motion | Lightwind | React Bits | nuqs |
+
 
 
 | <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=ts" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> | <img src="https://skillicons.dev/icons?i=redux" height="40" /> |
